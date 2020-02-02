@@ -1,7 +1,7 @@
 # 10-Days-of-Statistics
 By Hackerrank
 
-## Help MAterial : 
+## Help Material : 
 
 [Stat Notes](https://www3.nd.edu/~rwilliam/stats1/)
 [Stat Calculator and Notes](http://onlinestatbook.com/2/index.html)
